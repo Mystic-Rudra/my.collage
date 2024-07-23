@@ -1,3 +1,3 @@
 # my.collage
-This is my first repositry
+This is my first git repositry
 
